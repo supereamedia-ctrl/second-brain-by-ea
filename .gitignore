@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Obsidian — per-user state (keeps the vault portable; keeps your keys local)
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+# Plugins are per-user (Claudian + its login/keys live here) — don't commit them
+.obsidian/plugins/
